@@ -1,0 +1,17 @@
+{
+  "name": "raf_enextjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "author": "Rafael Ferreira",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^10.0.7",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "woocommerce-api": "^1.5.0"
+  }
+}
